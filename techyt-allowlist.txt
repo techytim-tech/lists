@@ -14,9 +14,9 @@ infinityfree.com
 #*.subdomain.example.net # Example with wildcard
 #^specific-service\.com$ # Exact match using regex (anchors ^ and $)
 
-*.os.timnichollsphotography.com #overseerr
-*.152.69.182.177:9443 # portainer rdesk-server
-*.152.69.182.177:81 #nginx-proxy-manager
+*.os.timnichollsphotography.com #
+*.152.69.182.177:9443 #
+*.152.69.182.177:81 #
 
 
 # Smart Home Devices (Examples - research your device's domains)
