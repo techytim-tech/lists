@@ -1,0 +1,30 @@
+# Essential Services 
+
+
+# Common Services (Add or remove as required)
+*.timnichollsphotography.com
+*.cloudflare.com
+infinityfree.com
+*.zoom.us
+
+# Specific Services (Add as needed)
+
+#example.com  # Exact domain
+#api.example.com # Specific API subdomain
+#*.subdomain.example.net # Example with wildcard
+#^specific-service\.com$ # Exact match using regex (anchors ^ and $)
+
+*.os.timnichollsphotography.com #overseerr
+*.152.69.182.177:9443 # portainer rdesk-server
+*.152.69.182.177:81 #nginx-proxy-manager
+
+
+# Smart Home Devices (Examples - research your device's domains)
+
+
+# Gaming Consoles (Examples - research your console's domains)
+
+
+# AdGuard Home Itself (Important!)
+
+*.adb.timnichollsphotography.com 
